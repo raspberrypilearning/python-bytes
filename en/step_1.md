@@ -8,7 +8,7 @@ A collection of short Python activities designed to be complete in 10 minutes to
   <!-- Image 1 -->
   <div style="display: flex; align-items: center;">
     <a href="IMAGE_URL_1" target="_blank">
-      <img src="dot.png" alt="Gross Recipe Banner 1" style="width: 200px; height: auto; margin-right: 20px;" />
+      <img src="images/dot.png" alt="Gross Recipe Banner 1" style="width: 200px; height: auto; margin-right: 20px;" />
     </a>
     <div>
       <p style="margin: 0;">A bold recipe with eyeballs, slime, worms, and socks—gross and mysterious!</p>
@@ -18,7 +18,7 @@ A collection of short Python activities designed to be complete in 10 minutes to
   <!-- Image 2 -->
   <div style="display: flex; align-items: center;">
     <a href="IMAGE_URL_2" target="_blank">
-      <img src="snake.png" alt="Gross Recipe Banner 2" style="width: 200px; height: auto; margin-right: 20px;" />
+      <img src="images/snake.png" alt="Gross Recipe Banner 2" style="width: 200px; height: auto; margin-right: 20px;" />
     </a>
     <div>
       <p style="margin: 0;">Chef is appalled while the kid proudly serves a horror bowl of gunk and eyeballs.</p>
