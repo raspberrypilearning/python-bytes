@@ -19,7 +19,7 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Use <code>print()</code> and <code>f-strings</code> to build a horrible recipe card. Add emojis and control spacing with <code>sep=</code> and <code>end=</code>. Visit <a href="https://rpf.io/disgusting" target="_blank">rpf.io/disgusting</a></p>
+      <p style="margin: 0;">Use <code>print()</code> to build a horrible recipe card. Add emojis and control line breaks. Visit <a href="https://rpf.io/disgusting" target="_blank">rpf.io/disgusting</a></p>
     </div>
   </div>
 
