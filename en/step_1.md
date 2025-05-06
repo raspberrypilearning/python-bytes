@@ -1,42 +1,67 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+## Python Bytes
 
-A brief description - one or two sentences. 
+A collection of short Python activities designed to be complete in 10 minutes to half-an-hour.
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+<div style="display: flex; flex-direction: column; gap: 20px; max-width: 800px; margin: auto;">
 
---- no-print ---
+  <!-- Image 1 -->
+  <div style="display: flex; align-items: center;">
+    <a href="IMAGE_URL_1" target="_blank">
+      <img src="dot.png" alt="Gross Recipe Banner 1" style="width: 200px; height: auto; margin-right: 20px;" />
+    </a>
+    <div>
+      <p style="margin: 0;">A bold recipe with eyeballs, slime, worms, and socks—gross and mysterious!</p>
+    </div>
+  </div>
 
-Editor embed 
+  <!-- Image 2 -->
+  <div style="display: flex; align-items: center;">
+    <a href="IMAGE_URL_2" target="_blank">
+      <img src="snake.png" alt="Gross Recipe Banner 2" style="width: 200px; height: auto; margin-right: 20px;" />
+    </a>
+    <div>
+      <p style="margin: 0;">Chef is appalled while the kid proudly serves a horror bowl of gunk and eyeballs.</p>
+    </div>
+  </div>
 
---- /no-print ---
+  <!-- Image 3 -->
+  <div style="display: flex; align-items: center;">
+    <a href="IMAGE_URL_3" target="_blank">
+      <img src="images/hop.png" alt="Original Rainbow Recipe Card" style="width: 200px; height: auto; margin-right: 20px;" />
+    </a>
+    <div>
+      <p style="margin: 0;">Wild recipe card with maggot mash, sock juice, and rainbow chaos.</p>
+    </div>
+  </div>
 
---- no-print ---
-Video embed
+  <!-- Image 4 -->
+  <div style="display: flex; align-items: center;">
+    <a href="IMAGE_URL_4" target="_blank">
+      <img src="images/disgusting.png" alt="Revised Rainbow Card with Boy" style="width: 200px; height: auto; margin-right: 20px;" />
+    </a>
+    <div>
+      <p style="margin: 0;">Now featuring the confused boy—same gross ingredients, unified design!</p>
+    </div>
+  </div>
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
+  <!-- Image 5 -->
+  <div style="display: flex; align-items: center;">
+    <a href="IMAGE_URL_5" target="_blank">
+      <img src="images/gross.png" alt="Boy Looking Perplexed at Recipe Card" style="width: 200px; height: auto; margin-right: 20px;" />
+    </a>
+    <div>
+      <p style="margin: 0;">The boy is puzzled by the disgusting dish he may have to eat.</p>
+    </div>
+  </div>
 
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+  <!-- Image 6 -->
+  <div style="display: flex; align-items: center;">
+    <a href="IMAGE_URL_6" target="_blank">
+      <img src="images/wreckers.png" alt="Kid Swaps Ingredients to Gross Ones" style="width: 200px; height: auto; margin-right: 20px;" />
+    </a>
+    <div>
+      <p style="margin: 0;">He’s up to no good—replacing normal ingredients with eyeball flakes and sock juice!</p>
+    </div>
+  </div>
 
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /no-print ---
-
-### You will need:
-- a
-- b
-- c
