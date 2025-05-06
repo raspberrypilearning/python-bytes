@@ -2,6 +2,7 @@
 
 A collection of short Python activities designed to be complete in 10 minutes to half-an-hour.
 
+<html>
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 800px; margin: auto;">
 
   <!-- Image 1 -->
@@ -65,3 +66,4 @@ A collection of short Python activities designed to be complete in 10 minutes to
   </div>
 
 </div>
+</html>
