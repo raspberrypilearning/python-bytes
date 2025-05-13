@@ -1,7 +1,3 @@
-## Python Bytes
-
-A collection of short Python activities designed to be complete in 10 minutes to half-an-hour.
-
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,9 +5,6 @@ A collection of short Python activities designed to be complete in 10 minutes to
 <body>
 <div style="display: flex; flex-direction: column; gap: 30px; max-width: 900px; margin: auto; padding: 20px;">
 
-  <!-- Shared style note:
-       Each block below uses flex-wrap so the image and text stack on small screens -->
-  
   <!-- Disgusting Dishes -->
   <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <a href="https://rpf.io/disgusting" target="_blank">
@@ -19,7 +12,8 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Use <code>print()</code> to build a horrible recipe card. Add emojis and control line breaks. Visit <a href="https://rpf.io/disgusting" target="_blank">rpf.io/disgusting</a></p>
+      <p style="margin: 0;">Use <code>print()</code> to build a horrible recipe card. Add emojis and control line breaks.<br />
+      <a href="https://rpf.io/disgusting" target="_blank">rpf.io/disgusting</a></p>
     </div>
   </div>
 
@@ -30,7 +24,8 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Use variables and <code>f-strings</code> to list ingredient quantities. Build up a weird and wonderful recipe from scratch. Visit <a href="https://rpf.io/gross" target="_blank">rpf.io/gross</a></p>
+      <p style="margin: 0;">Use variables and <code>f-strings</code> to list ingredient quantities. Build up a weird and wonderful recipe from scratch.<br />
+      <a href="https://rpf.io/gross" target="_blank">rpf.io/gross</a></p>
     </div>
   </div>
 
@@ -41,7 +36,8 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Wreck a lovely recipe by replacing ingredients with horrible ones using string methods. Practice <code>.replace()</code> and <code>.upper()</code> for creative output. Visit <a href="https://rpf.io/wreckers" target="_blank">rpf.io/wreckers</a></p>
+      <p style="margin: 0;">Wreck a lovely recipe by replacing ingredients with horrible ones using string methods. Practice <code>.replace()</code> and <code>.upper()</code> for creative output.<br />
+      <a href="https://rpf.io/wreckers" target="_blank">rpf.io/wreckers</a></p>
     </div>
   </div>
 
@@ -52,7 +48,8 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Draw a bug using simple shapes in Python with p5. Learn how to position and layer shapes with symmetry. Visit <a href="https://rpf.io/dot" target="_blank">rpf.io/dot</a></p>
+      <p style="margin: 0;">Draw a bug using simple shapes in Python with p5. Learn how to position and layer shapes with symmetry.<br />
+      <a href="https://rpf.io/dot" target="_blank">rpf.io/dot</a></p>
     </div>
   </div>
 
@@ -63,7 +60,8 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Create a wiggly snake animation using loops and position changes. Explore how to animate simple movement in p5. Visit <a href="https://rpf.io/wiggle" target="_blank">rpf.io/wiggle</a></p>
+      <p style="margin: 0;">Create a wiggly snake animation using loops and position changes. Explore how to animate simple movement in p5.<br />
+      <a href="https://rpf.io/wiggle" target="_blank">rpf.io/wiggle</a></p>
     </div>
   </div>
 
@@ -74,7 +72,8 @@ A collection of short Python activities designed to be complete in 10 minutes to
            style="width: 200px; height: 140px; object-fit: contain; margin-right: 30px; flex-shrink: 0;" />
     </a>
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Animate a jumping frog that stretches and squashes with code. Use variables to control how its body parts move. Visit <a href="https://rpf.io/hop" target="_blank">rpf.io/hop</a></p>
+      <p style="margin: 0;">Animate a jumping frog that stretches and squashes with code. Use variables to control how its body parts move.<br />
+      <a href="https://rpf.io/hop" target="_blank">rpf.io/hop</a></p>
     </div>
   </div>
 
